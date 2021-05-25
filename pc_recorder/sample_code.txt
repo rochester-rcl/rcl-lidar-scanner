@@ -1,5 +1,5 @@
 '''
-Original Template
+Original code provided by RealSense
 '''
 
 #!/usr/bin/python3
