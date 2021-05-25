@@ -1,7 +1,7 @@
 # rcl-lidar-scanner
 Repository for Tests with Intel RealSense LiDAR L515
 
-PC Recorder file hold two pieces of code:
+PC Recorder file holds two pieces of code:
 
 1. image_collection.ipynb: Contains code to collect a series of pointcloud objects from the connected camera.
 1. IMU_stream: Sample code to stream IMU values from the camera.
